@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Melon
+                    Melon Team
                 </div>
 
                 <div class="links">
